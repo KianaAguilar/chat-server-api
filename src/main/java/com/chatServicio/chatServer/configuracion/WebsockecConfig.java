@@ -1,4 +1,4 @@
-package configuracion;
+package com.chatServicio.chatServer.configuracion;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
